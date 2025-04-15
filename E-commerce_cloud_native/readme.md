@@ -8,7 +8,7 @@ Este projeto implementa uma aplicação de e-commerce utilizando arquitetura clo
 Python
 Azure Blob Storage
 SQL Server
-Streamlit (para interface de usuário)
+Streamlit (para interface de Usuário)
 dotenv (para gerenciamento de variáveis de ambiente)
 
 📊 Demonstração
